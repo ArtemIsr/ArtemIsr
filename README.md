@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArtemIsr
+- 👋 Hi, I’m @Artem_Manakhov
 - 👀 I’m interested in development and growth in it
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on I am looking for an opportunity to cooperate in 
